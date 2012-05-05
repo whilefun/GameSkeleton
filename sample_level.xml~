@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Level name="Level of Dooom!" number="1" type="single player">
+<!--this is the first level-->
+<TileSets count="6">
+<TileSet height="10" name="sprite_tilemap_blank.png" width="7"/>
+<TileSet height="10" name="sprite_tilemap_test_01.png" width="7"/>
+<TileSet height="10" name="sprite_tilemap_test_02.png" width="7"/>
+<TileSet height="10" name="sprite_tilemap_test_03.png" width="7"/>
+<TileSet height="10" name="MaterialTileTemplate_8x12.png" width="7"/>
+<TileSet height="10" name="sprite_tileset_water_dirt_8.png" width="7"/>
+</TileSets>
+<Layer name="Effects Top(5)" number="0" scrollspeed="10">
+<Map cols="20" rows="500"/>
+<Things count="0"/>
+</Layer>
+<Layer name="Effects Top(4)" number="1" scrollspeed="9">
+<Map cols="20" rows="500"/>
+<Things count="0"/>
+</Layer>
+<Layer name="Effects Top(3)" number="2" scrollspeed="8">
+<Map cols="20" rows="500"/>
+<Things count="0"/>
+</Layer>
+<Layer name="Effects Top(2)" number="3" scrollspeed="9">
+<Map cols="20" rows="500"/>
+<Things count="0"/>
+</Layer>
+<Layer name="Effects Top(1)" number="4" scrollspeed="5">
+<Map cols="20" rows="500"/>
+<Things count="0"/>
+</Layer>
+<Layer name="Effects Top(0)" number="5" scrollspeed="4">
+<Map cols="20" rows="500"/>
+<Things count="0"/>
+</Layer>
+</Level>

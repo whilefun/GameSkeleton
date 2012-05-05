@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Level name="Level of Dooom!" number="1" type="single player">
+<!--this is the first level-->
+<Layer name="EFFECTS TOP" number="0" scrollspeed="22">
+<Map cols="3" rows="3">
+<Row>
+<Tile name="tile_test_32_32_01.png" tilemapX="0" tilemapY="0"/>
+</Row>
+</Map>
+<Things count="000">
+</Things>
+</Layer>
+<Layer name="ACTION" number="1" scrollspeed="11">
+
+</Layer>
+<Layer name="EFFECTS MIDDLE" number="2" scrollspeed="11">
+
+</Layer>
+<Layer name="SHADOWS" number="3" scrollspeed="11">
+
+</Layer>
+<Layer name="GROUND OBJECTS" number="4" scrollspeed="11">
+
+</Layer>
+<Layer name="FLOOR" number="5" scrollspeed="11">
+
+</Layer>
+</Level>
