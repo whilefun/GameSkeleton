@@ -1,0 +1,1 @@
+This is the first cut of the readme file for the git repo that will house the GameSkeleton project (that sounds better than "Hello World" :))
