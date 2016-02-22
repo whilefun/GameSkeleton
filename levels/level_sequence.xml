@@ -1,6 +1,0 @@
-<LevelSequence numberOfLevels="4">
-	<Level filename="lvl_01.xml"/>
-	<Level filename="lvl_02.xml"/>
-	<Level filename="lvl_03.xml"/>
-	<Level filename="lvl_04_Boss.xml"/>
-</LevelSequence>
